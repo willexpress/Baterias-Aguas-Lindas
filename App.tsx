@@ -20,9 +20,9 @@ const App: React.FC = () => {
         <main>
           <Hero />
           <Stats />
+          <BrandCatalog />
           <ComparisonSection />
           <Products />
-          <BrandCatalog />
           <Marquee />
           <Services />
           <Locations />
